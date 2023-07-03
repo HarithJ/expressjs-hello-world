@@ -1,0 +1,29 @@
+{
+    "name": "hello-world",
+    "version": "1.0.0",
+    "description": "Simple \"Hello World\" application built using Express JS",
+    "main": "app.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "dependencies": {
+        "express": "^4.18.1"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/HarithJ/expressjs-hello-world.git"
+    },
+    "keywords": [
+      "hello-world"
+    ],
+    "author": "Harith Javed Bakhrani",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/HarithJ/expressjs-hello-world/issues"
+    },
+    "homepage": "https://github.com/HarithJ/expressjs-hello-world#readme"
+}
